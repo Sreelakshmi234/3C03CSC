@@ -2,8 +2,15 @@
     color:blue;
     text-align:center;
   }
+
+
   p{
      font-style:italic;
+  }
+
+  body{
+     width:80%;
+     margin:auto;
   }
 
 
